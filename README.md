@@ -1,3 +1,13 @@
+# Robodex Class-based React Component app
+
+![image](https://user-images.githubusercontent.com/17979853/162945928-448459a9-470a-44d1-9e3b-a0c44d70d26c.png)
+
+## Component hierarchy:
+- App
+- - SearchBox
+- - CardList
+    - - Card
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
