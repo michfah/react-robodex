@@ -4,9 +4,9 @@
 
 ## Component hierarchy:
 - App
-- - SearchBox
-- - CardList
-    - - Card
+ - SearchBox
+ - CardList
+    - Card
 
 # Getting Started with Create React App
 
